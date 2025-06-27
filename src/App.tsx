@@ -45,7 +45,7 @@ function TextUpdaterNode(props: any) {
 
   return (
     <div>
-      <div className="flex flex-col p-2 rounded-md bg-zinc-50 border">
+      <div className="flex flex-col p-2 rounded-md bg-zinc-100 border">
         <label className="text-zinc-500" htmlFor="text">
           Text:
         </label>
